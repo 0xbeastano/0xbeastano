@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranit%20Patil&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Automation%20Engineer%20%7C%20Conversational%20AI%20%7C%20n8n%20Workflow%20Specialist&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranit%20Patil&fontSize=80&fontColor=fff&animation=twinkling&fontAl[...]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Voice+AI+%26+Agentic+Systems+Builder;n8n+Workflow+Architect;Full-Stack+Developer;LLM+Integration+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Voice+AI+%26+Ag[...]
 
 <br/>
 
@@ -29,11 +29,11 @@
 
 ## About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=0xbeastano&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C4B5FD&ring_color=7C3AED" />
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=0xbeastano&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_co[...]
 
-I am a production-grade **AI Automation Engineer** with deep expertise in **Conversational AI**, **Agentic Systems**, and **n8n Workflow Orchestration**. I architect and ship end-to-end automation infrastructure that connects lead sources, CRM pipelines, messaging platforms, and voice agents — eliminating manual overhead at scale.
+I am a production-grade **AI Automation Engineer** with deep expertise in **Conversational AI**, **Agentic Systems**, and **n8n Workflow Orchestration**. I architect and ship end-to-end automation[...]
 
-My engineering focus spans **LLM integration** (GPT-4, Claude, Gemini), **Voice AI** (Vapi, ElevenLabs), and **full-stack product development** (TypeScript, React, Next.js, Python/FastAPI, Supabase). I hold a B.E. in Artificial Intelligence and Data Science from SPPU with a CGPA of 8.73.
+My engineering focus spans **LLM integration** (GPT-4, Claude, Gemini), **Voice AI** (Vapi, ElevenLabs), and **full-stack product development** (TypeScript, React, Next.js, Python/FastAPI, Supabas[...]
 
 Every system I build is designed for production: webhook-driven, resilient, observable, and client-deployable within days.
 
@@ -103,7 +103,7 @@ Every system I build is designed for production: webhook-driven, resilient, obse
 
 <br/>
 
-An end-to-end inbound voice agent built on Vapi that answers real estate prospect calls, qualifies leads by budget and timeline using conversational logic, books calendar appointments autonomously, and syncs all call outcomes to CRM records via n8n follow-up workflows. Zero manual intervention from first call to CRM entry.
+An end-to-end inbound voice agent built on Vapi that answers real estate prospect calls, qualifies leads by budget and timeline using conversational logic, books calendar appointments autonomousl[...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -121,7 +121,7 @@ An end-to-end inbound voice agent built on Vapi that answers real estate prospec
 
 <br/>
 
-A production WhatsApp automation built on the Meta Official Business API and n8n that handles inbound customer queries, qualifies leads through structured conversational logic, and routes hot prospects directly into CRM pipelines with tagged records and automated follow-up sequences.
+A production WhatsApp automation built on the Meta Official Business API and n8n that handles inbound customer queries, qualifies leads through structured conversational logic, and routes hot pro[...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -139,7 +139,7 @@ A production WhatsApp automation built on the Meta Official Business API and n8n
 
 <br/>
 
-A ManyChat and n8n integrated workflow that responds to Instagram DMs with qualifying questions, scores leads based on responses, and routes warm prospects to sales teams via CRM updates and email triggers — fully automated from DM to pipeline entry.
+A ManyChat and n8n integrated workflow that responds to Instagram DMs with qualifying questions, scores leads based on responses, and routes warm prospects to sales teams via CRM updates and emai[...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -157,7 +157,7 @@ A ManyChat and n8n integrated workflow that responds to Instagram DMs with quali
 
 <br/>
 
-An Apify-powered LinkedIn scraper combined with an n8n orchestration layer that extracts targeted prospect profiles, structures data into CRM-ready records, and drives personalised multi-step outbound outreach sequences with response tracking and automated follow-ups.
+An Apify-powered LinkedIn scraper combined with an n8n orchestration layer that extracts targeted prospect profiles, structures data into CRM-ready records, and drives personalised multi-step out[...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -175,7 +175,7 @@ An Apify-powered LinkedIn scraper combined with an n8n orchestration layer that 
 
 <br/>
 
-A free, privacy-first Windows desktop application that tracks battery life in years, monitors AI session resource consumption, and provides fleet-level hardware monitoring — no cloud dependency, no account required. Built with Electron and React.
+A free, privacy-first Windows desktop application that tracks battery life in years, monitors AI session resource consumption, and provides fleet-level hardware monitoring — no cloud dependency[...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -193,7 +193,7 @@ A free, privacy-first Windows desktop application that tracks battery life in ye
 
 <br/>
 
-An AI-powered copywriting SaaS platform that generates structured marketing copy decks — from ad scripts to email sequences — using LLM-backed generation pipelines, Supabase for persistence, and a clean Next.js interface with MIT open-source licensing.
+An AI-powered copywriting SaaS platform that generates structured marketing copy decks — from ad scripts to email sequences — using LLM-backed generation pipelines, Supabase for persistence, [...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -211,7 +211,7 @@ An AI-powered copywriting SaaS platform that generates structured marketing copy
 
 <br/>
 
-A specialised AI voice agent for HVAC service businesses that handles inbound service requests, qualifies job type and urgency, and books technician appointments — deployed with a TypeScript/Next.js front-end interface and live Vapi integration.
+A specialised AI voice agent for HVAC service businesses that handles inbound service requests, qualifies job type and urgency, and books technician appointments — deployed with a TypeScript/Ne[...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -229,7 +229,7 @@ A specialised AI voice agent for HVAC service businesses that handles inbound se
 
 <br/>
 
-An interactive 3D real estate plot visualization tool that renders property layouts, dimensions, and availability in a browser-based 3D viewer — built with Three.js and TypeScript, deployed on Vercel for client-facing property sales presentations.
+An interactive 3D real estate plot visualization tool that renders property layouts, dimensions, and availability in a browser-based 3D viewer — built with Three.js and TypeScript, deployed on [...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -247,7 +247,7 @@ An interactive 3D real estate plot visualization tool that renders property layo
 
 <br/>
 
-An AI-powered code review platform that accepts code snippets or GitHub repository context and returns structured, actionable review feedback using LLM-backed analysis — built with TypeScript and deployed as a production web application.
+An AI-powered code review platform that accepts code snippets or GitHub repository context and returns structured, actionable review feedback using LLM-backed analysis — built with TypeScript a[...]
 
 | Attribute | Detail |
 |-----------|--------|
@@ -344,14 +344,14 @@ Delivered automation and analytics solutions that reduced manual processing over
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xbeastano&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C4B5FD&ring_color=7C3AED&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbeastano&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xbeastano&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9[...]
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbeastano&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_co[...]
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0xbeastano&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6B7280)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=0xbeastano&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates[...]
 
 </div>
 
@@ -361,7 +361,7 @@ Delivered automation and analytics solutions that reduced manual processing over
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xbeastano&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xbeastano&theme=midnight-purple&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -371,7 +371,7 @@ Delivered automation and analytics solutions that reduced manual processing over
 
 <div align="center">
 
-[![Pranit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xbeastano&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=C4B5FD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pranit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xbeastano&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=C4B5FD&area=true&hide_border=[...]
 
 </div>
 
