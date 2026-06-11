@@ -361,7 +361,7 @@ Delivered automation and analytics solutions that reduced manual processing over
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xbeastano&theme=midnight-purple&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xbeastano&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
